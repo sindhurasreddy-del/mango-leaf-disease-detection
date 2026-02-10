@@ -4,6 +4,16 @@
 This project focuses on automatic detection and classification of mango leaf diseases using Convolutional Neural Networks (CNNs) built with TensorFlow and Keras.
 The model classifies mango leaf images into 8 categories and also provides recommended curative steps for each detected disease, helping farmers and agricultural practitioners take timely action.
 
+## 📂 Dataset
+
+Due to GitHub file size limitations, the dataset is hosted on Google Drive.
+
+🔗 **Download Dataset:** 
+
+https://drive.google.com/drive/folders/1zOr-h6tD2SlOFVfxw2-xXdSIbP4zMhVp?usp=drive_link
+
+
+
 ## Objectives**
 
 Build a deep learning model to classify mango leaf diseases from images
