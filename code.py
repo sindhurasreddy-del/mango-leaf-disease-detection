@@ -114,11 +114,11 @@ for image_batch, labels_batch in dataset.take(3):
 
 
 # # Function to Split Dataset
-Dataset should be bifurcated into 3 subsets, namely:
+## Dataset should be bifurcated into 3 subsets, namely:
 
-Training: Dataset to be used while training
-Validation: Dataset to be tested against while training
-Test: Dataset to be tested against after we trained a model
+## Training: Dataset to be used while training
+## Validation: Dataset to be tested against while training
+## Test: Dataset to be tested against after we trained a model
 # In[9]:
 
 
