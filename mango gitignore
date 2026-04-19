@@ -1,0 +1,31 @@
+# Dataset (too large for GitHub)
+mango/
+data/
+*.jpg
+*.jpeg
+*.png
+!images/*.png
+
+# Model files (too large for GitHub)
+saved/
+*.h5
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
